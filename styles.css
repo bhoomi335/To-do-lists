@@ -1,0 +1,12 @@
+body {
+    padding: 20px;
+}
+.task-list {
+    margin-top: 20px;
+}
+.task-item {
+    margin-bottom: 10px;
+}
+.priority {
+    font-weight: bold;
+}
